@@ -20,6 +20,10 @@ a:-0.6173028391167193
 b:87.37741324921137
 p:0.018270440333470032
 
+r -> korelasyon katsayısı -> doğrusal bir ilişki olup olmadığını gösterir (-1,+1))
+r^2 -> 0 ile 1 arasında değişir
+       0: hiç ilişki yok
+       1:kesin ilişki var
 p sonucun tesadüfi olup olmadığını ölçer
 0.05ten büyükse ilişki tesadüf olabilir
 """
