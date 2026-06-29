@@ -25,7 +25,6 @@ plt.show()
 gini-> her zaman 0 ile 0.5 arasındadır. bölünmenin nasıl ayrıldığını gösterir
 0--- örnekler saf hepsi aynı
 0.5--- örnekler karışık
-
 karar ağacı her adımda gini değerinin en az olduğu dallanmayı seçmek ister
 
 values= kaç YES kaç NO olduğunu gösteriyor"""
